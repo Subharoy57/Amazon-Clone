@@ -1,0 +1,50 @@
+.main-single-image-product {
+    display: flex; 
+    justify-content: center; 
+    margin-top: 3.8rem;  
+}
+.single-product-container {
+    
+    display: flex; 
+    width: 70%; 
+}    
+.single-image-product img {
+    height: 400px; 
+    width: 400px; 
+    background-color: #fff; 
+    padding: 1rem; 
+} 
+.single-text-info-product {  
+    margin-left: 1.8rem; 
+
+}
+.firstTitle {
+    font-size: 40px; 
+} 
+
+.secondTitle {
+    font-size: 22px; 
+    color: #2596be; 
+    font-weight: 600; 
+    margin-left: .2rem; 
+    margin-top: .5rem; 
+} 
+
+.priceparagraph {
+    font-size: 32px; 
+    margin-top: .5rem; 
+} 
+.super-tag {
+    color: gray; 
+    font-size: 16px; 
+} 
+.add-to-card {
+    margin-top: 2rem; 
+} 
+#add-to-cardbtns {
+    padding: .6rem 2.4rem; 
+    border: none; 
+    outline: none; 
+    border-radius: 4px; 
+    background-color: orange; 
+}

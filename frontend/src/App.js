@@ -15,7 +15,7 @@ import SingleP from './Components/SingleP'
 import SingleProduct from './Components/SingleProduct'
 
 const promise=loadStripe(
-  "pk_test_51Ns22kSFhWQO0HN76vsZnWag5nWWPCIDbB5ufTuIxslvK4gUHUgsGk320hg5ISdSmAnFKEWecPvGNJfitxIaonmP00ai5epeN9"
+  "write your keys here" 
 );
 
 
